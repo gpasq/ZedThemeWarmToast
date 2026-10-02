@@ -1,5 +1,8 @@
 # Warm Toast for Zed
 
+<img width="2672" height="1458" alt="Zed 2026-10-02 09 22 17" src="https://github.com/user-attachments/assets/fb5a46d9-3aba-4177-9dbc-14e9e865d0c2" />
+
+
 Warm Toast is a theme I created to escape the gaudy, carnival-like colors of most editor themes. It's warm, easy
 on the eyes, classy coloration, applied to relevant syntax.
 
