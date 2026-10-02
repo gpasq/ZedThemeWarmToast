@@ -1,0 +1,7 @@
+id = "warm-toast"
+name = "Warm Toast"
+description = "A tasty warm theme with subtle colors for tired eyes."
+version = "1.0.0"
+schema_version = 1
+authors = ["Greg Pasquariello <greg@pasq.net>"]
+repository = "https://github.com/gpasq/ZenThemeWarmToast"
